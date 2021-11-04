@@ -1,0 +1,45 @@
+﻿  0 File(s) copied
+  C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\shaders\scene2.frag
+  C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\shaders\scene2.vert
+  2 File(s) copied
+  mengerSpongeApplication.cpp
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(99,21): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(118,35): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(121,35): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(124,35): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(127,35): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(130,35): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(133,35): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene.hpp(138,22): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Include\gltext\gltext.h(319,33): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene1.hpp(46,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\include\mengerScene1.hpp(52,54): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\mengerSpongeApplication.cpp(192,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\mengerSpongeApplication.cpp(230,32): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Src\mengerSpongeApplication.cpp(230,23): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  RTRApp.vcxproj -> C:\Users\cyan\source\repos\A1_BROWN_SAMUEL\Build\Debug - x64\A1.exe
+  0 File(s) copied
